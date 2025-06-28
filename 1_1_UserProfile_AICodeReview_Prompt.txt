@@ -1,0 +1,35 @@
+1.Code review by AI: 
+
+Cursor Prompt: 
+
+Analyze this project comprehensively: 
+
+1. FIND ISSUES: 
+
+- Complexity problems 
+
+- Performance bottlenecks 
+
+- Security vulnerabilities 
+
+- Readability issues 
+
+- Potential bugs 
+
+2. MEASURE: 
+
+- Cyclomatic complexity 
+
+- Lines of code 
+
+- Number of responsibilities 
+
+3.SUGGEST: 
+
+-Specific improvements 
+
+-Refactoring opportunities 
+
+-Best practice violations Provide concrete examples and fixes 
+
+ 
