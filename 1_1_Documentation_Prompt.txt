@@ -1,0 +1,30 @@
+Master Documentation Prompt for Any AI Tool:
+COMPREHENSIVE DOCUMENTATION GENERATION:
+Generate professional documentation for this entire [class/module/service]:
+DOCUMENTATION REQUIREMENTS:
+1. **OVERVIEW SECTION:**
+- Purpose and responsibility
+- Key features and capabilities
+- Usage patterns and examples
+- Dependencies and requirements
+AI Driven Development #60day challenge
+2. **METHOD DOCUMENTATION:**
+- Clear purpose description
+- Parameter types and descriptions
+- Return value explanation
+- Possible exceptions/errors
+- Usage examples
+- Performance considerations
+3. **EXAMPLES SECTION:**
+- Basic usage examples
+- Advanced use cases
+- Common patterns
+- Error handling examples
+4. **API REFERENCE:**
+- Complete method signatures
+- Type definitions
+- Configuration options
+- Event types (if applicable)
+FORMAT: Use appropriate documentation syntax (JSDoc, PyDoc, etc.)
+STYLE: Professional, clear, and helpful for other developers
+INCLUDE: Real-world examples that developers can copy-paste
